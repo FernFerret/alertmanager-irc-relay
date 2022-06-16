@@ -1,6 +1,6 @@
 module github.com/google/alertmanager-irc-relay
 
-go 1.13
+go 1.16
 
 require (
 	github.com/fluffle/goirc v1.2.0
